@@ -9,7 +9,8 @@ def join_ingredients(src)
   
   new_array = Array.new
   index = 0 
-  while index < src.count
+  while index < src.count do 
+    
   puts "I love #{array1[0]} and #{array1[1]} on my pizza"
    
      
