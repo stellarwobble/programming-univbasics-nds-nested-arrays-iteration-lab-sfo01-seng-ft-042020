@@ -30,6 +30,8 @@ def find_greater_pair(src)
       greater_number<<(src[index][1])
     end
     index += 1 
+  end
+  greater_number
   
   
   
