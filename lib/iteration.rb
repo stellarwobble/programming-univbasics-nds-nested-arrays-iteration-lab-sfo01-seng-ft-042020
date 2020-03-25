@@ -25,6 +25,7 @@ def find_greater_pair(src)
   index = 0 
   while index < src.count do 
     if src[index][0] > src[index][1]
+      greater_number<<
   
   
   
