@@ -8,6 +8,7 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
   
   new_array = Array.new
+  index = 0
   puts "I love #{array1[0]} and #{array1[1]} on my pizza"
    
      
