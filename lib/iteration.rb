@@ -10,6 +10,8 @@ ingredients = []
 index = 0 
 while index < src.count do 
   ingredients << ("I love #{src[index][0]} and #{src[index][1] on my pizza")
+  index += 1 
+  
  
  
  end
