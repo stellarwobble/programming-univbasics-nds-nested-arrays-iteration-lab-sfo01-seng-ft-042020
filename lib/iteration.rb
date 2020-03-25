@@ -11,7 +11,7 @@ def join_ingredients(src)
   row_index = 0 
   while row_index < join_ingredients.count do 
     element_index = 0 
-    while element_index < join_ingredients[row_index].count do 
+   
      
 end
 
