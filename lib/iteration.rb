@@ -9,7 +9,15 @@ def join_ingredients(src)
   
  
  
- 
+ new_Array = []
+
+  index = 0
+  while index < src.count do
+      str = "I love #{src[index][0]} and #{src[index][1]} on my pizza"
+      new_Array.push(str)
+      index +=1
+    
+  return new_Array
  
  
  
