@@ -9,8 +9,7 @@ def join_ingredients(src)
   
   join_ingredients = []
   row_index = 0 
-  while row_index < join_ingredients.count do 
-    element_index = 0 
+  
    
      
 end
