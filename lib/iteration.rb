@@ -9,7 +9,7 @@ def join_ingredients(src)
 ingredients = []
 index = 0 
 while index < src.count do 
-  ingredients <<
+  ingredients << ("I love ")
  
  
  end
