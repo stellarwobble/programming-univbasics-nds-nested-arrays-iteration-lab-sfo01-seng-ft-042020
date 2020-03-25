@@ -27,7 +27,7 @@ def find_greater_pair(src)
     if src[index][0] > src[index][1]
       greater_number<<(src[index][0])
     else
-      
+      greater_number<<(src[index][1])
   
   
   
