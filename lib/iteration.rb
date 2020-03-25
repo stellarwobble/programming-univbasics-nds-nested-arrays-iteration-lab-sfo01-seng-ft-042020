@@ -12,7 +12,7 @@ def join_ingredients(src)
   while index < src.count do 
     
   str =  "I love #{src[index][0]} and #{src[index][1]} on my pizza"
-   
+   new_array
      
 end
 
