@@ -8,7 +8,7 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
 ingredients = []
 index = 0 
-
+while index < src.count do
  
  
  end
